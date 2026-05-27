@@ -60,18 +60,6 @@ SQL Analyst internships and entry-level opportunities**.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=0x-adi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-
-![Streak](https://streak-stats.demolab.com/?user=0x-adi&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=0x-adi&theme=tokyonight&hide_border=true&layout=compact&langs_count=6)
-
-</div>
-
 ---
 
 ## 🏆 Achievements
@@ -99,6 +87,8 @@ SQL Analyst internships and entry-level opportunities**.
 
 **📬 adityakrishna.ds@gmail.com · 🌐 [Portfolio](https://0x-adi.github.io/portfolio/)**
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## 📊 Most Used Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0x-adi&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
