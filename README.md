@@ -76,9 +76,9 @@ SQL Analyst internships and entry-level opportunities**.
 
 ## 🏆 Achievements
 
-- 🎯 **Event Manager — Tesseract 2025**: Led end-to-end planning of a data science event with technical & non-technical tracks at VIT Chennai
+- 🎯 **Event Manager | Tesseract 2025**: Led end-to-end planning of a data science event with technical & non-technical tracks at VIT Chennai
 - ⚡ **Data Science Hackathon**: Rapid feature engineering and model evaluation under competitive time constraints
-- 🌐 **SSOC Season 2** — [View Certificate](https://certificate.givemycertificate.com/c/9459c94a-0ee8-442a-a9df-5090957b9531)
+- 🌐 **SSOC Season 2** | [View Certificate](https://certificate.givemycertificate.com/c/9459c94a-0ee8-442a-a9df-5090957b9531)
 
 ---
 
@@ -89,7 +89,7 @@ SQL Analyst internships and entry-level opportunities**.
 | 🔵 **Create ML Models with BigQuery ML** | Google | [![Credly](https://img.shields.io/badge/Credly-FF6B35?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/badges/eaf399f9-5a55-459c-a380-4e22d1d1182d/linked_in_profile) |
 | 🟠 **Data Visualization with Power BI & Excel** | Forage | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/0x-adi_data-visualisation-activity-7079405706432397312-kC2M) |
 | 🟢 **SQL (Intermediate)** | HackerRank | [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/eae485a6e15b) |
-| 🟡 **Google Data Analytics** | Google / Coursera | — |
+| 🟡 **Google Data Analytics** | Google / Coursera |  |
 
 ---
 
