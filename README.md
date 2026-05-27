@@ -1,86 +1,116 @@
-```md
-<h1 align="center">Hi 👋, I'm Aditya Krishna</h1>
-<h3 align="center">Aspiring Data Scientist | Data Analyst | ML Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Science+Student;Machine+Learning+Enthusiast;Power+BI+Developer;Python+%7C+SQL+%7C+NLP;Open+to+Work+%F0%9F%92%BC" alt="Typing SVG" />
-</p>
+```
+░█████╗░██████╗░██╗  ░█████╗░██████╗░██╗
+██╔══██╗██╔══██╗██║  ██╔══██╗██╔══██╗██║
+███████║██║  ██║██║  ███████║██║  ██║██║
+██╔══██║██║  ██║██║  ██╔══██║██║  ██║██║
+██║  ██║██████╔╝██║  ██║  ██║██████╔╝██║
+╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝  ╚═╝╚═════╝ ╚═╝
+```
 
----
+# Aditya Krishna
+### Data Scientist · NLP Engineer · Analytics Enthusiast
 
-## 🚀 About Me
+*Turning raw data into decisions — one model at a time.*
 
-- 🎓 Completed **M.Sc in Data Science**
-- 📊 Passionate about **Data Analytics, Machine Learning & NLP**
-- 🔭 Building real-world **Data Science & Analytics Projects**
-- 🌱 Currently learning **Deep Learning & Advanced ML**
-- 💼 Open to **Data Analyst / Data Scientist Opportunities**
-- ⚡ Fun Fact: *I love turning raw data into meaningful insights*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0x--adi-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0x-adi/)
+[![Gmail](https://img.shields.io/badge/Gmail-adityakrishna.ds-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityakrishna.ds@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0x--Adi-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0x-Adi)
+[![Profile Views](https://komarev.com/ghpvc/?username=0x-adi&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)](https://github.com/0x-Adi)
 
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/0x-adi" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/_aditya._.krishna_/" target="blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:adityakrishna.ds@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+</div>
 
 ---
 
-## 💻 Tech Stack
+## 🧠 About Me
 
-<p align="left">
+```python
+aditya = {
+    "education":  ["M.Sc. Data Science @ VIT Chennai (2024–2026)",
+                   "B.C.A. @ MAKAUT, West Bengal (2021–2024)"],
+    "focus":      ["Machine Learning", "NLP", "Data Analytics", "Deep Learning"],
+    "building":   ["Sentiment Analysis tools", "NLP Chatbots", "BI Dashboards"],
+    "seeking":    "Data Analyst / Data Scientist roles",
+    "fun_fact":   "I find patterns in chaos — and dashboards in data dumps.",
+}
+```
 
-<img src="https://skillicons.dev/icons?i=python,mysql,mongodb,js,html,css" />
+---
 
-</p>
+## 🔬 Research & Projects
 
-<p align="left">
+| Project | Stack | Description |
+|---|---|---|
+| 🧾 **Sentiment Analysis of Product Reviews** | Python, NLP | Tokenization + sentiment scoring to extract product perception insights |
+| 🤖 **NLP-based Rule Chatbot** | Python, NLP | Optimized query response efficiency via user pattern analysis |
+| 📊 **Return & Refund Loss Recovery Dashboard** | Power BI | Interactive dashboard identifying key loss drivers & recovery levers |
+| 🌑 **Hybrid Neutrosophic Low-Light Enhancement** | Python, Math Modeling | Research paper — hybrid image enhancement using neutrosophic sets |
+| 🧬 **CNN Optimization (GrNet)** | Python, Deep Learning | Analyzed training parameters & loss functions to boost model performance |
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge"/>
+---
 
-</p>
+## 🛠️ Tech Stack
+
+**Languages & Querying**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Data Science & ML**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Analytics & Visualization**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+**Domains**
+
+![NLP](https://img.shields.io/badge/NLP-FF6F61?style=for-the-badge&logo=spacy&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=0x-adi&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x-adi&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=0x-adi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
-<p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=0x-adi&theme=tokyonight&hide_border=true"/>
-</p>
+![Streak](https://streak-stats.demolab.com/?user=0x-adi&theme=tokyonight&hide_border=true)
 
----
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=0x-adi&theme=tokyonight&hide_border=true&layout=compact&langs_count=6)
 
-## 🧠 Quote
-
-<p align="center">
-  
-> “Data is the new oil, but insight is the refinery.”
-
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0x-adi&style=for-the-badge&color=blue" alt="profile views"/>
-</p>
-```
+## 🏆 Achievements
+
+- 🎯 **Event Manager — Tesseract 2025**: Led end-to-end planning of a data science event with technical & non-technical tracks at VIT Chennai
+- ⚡ **Data Science Hackathon**: Rapid feature engineering and model evaluation under competitive time constraints
+
+---
+
+## 📜 Certifications
+
+- 🟡 **Google Data Analytics** — SQL, Python, Data Visualization
+- 🟠 **Data Visualization with Power BI & Excel** — Forage
+- 🔵 **Create ML Models with BigQuery** — Google
+
+---
+
+<div align="center">
+
+*Open to collaborations on Data Science, NLP, and Open Source projects.*
+
+**📬 adityakrishna.ds@gmail.com**
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
