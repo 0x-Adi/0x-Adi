@@ -1,15 +1,7 @@
 <div align="center">
 
-```
-░█████╗░██████╗░██╗  ░█████╗░██████╗░██╗
-██╔══██╗██╔══██╗██║  ██╔══██╗██╔══██╗██║
-███████║██║  ██║██║  ███████║██║  ██║██║
-██╔══██║██║  ██║██║  ██╔══██║██║  ██║██║
-██║  ██║██████╔╝██║  ██║  ██║██████╔╝██║
-╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝  ╚═╝╚═════╝ ╚═╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Aditya+Krishna+%F0%9F%91%8B;Data+Scientist+%7C+NLP+Engineer;Analytics+%7C+ML+%7C+Deep+Learning" alt="Typing SVG" />
 
-# Aditya Krishna
 ### Data Scientist · NLP Engineer · Analytics Enthusiast
 
 *Turning raw data into decisions — one model at a time.*
@@ -27,11 +19,13 @@
 
 ```python
 aditya = {
-    "education":  ["M.Sc. Data Science @ VIT Chennai (2024–2026)",
-                   "B.C.A. @ MAKAUT, West Bengal (2021–2024)"],
+    "name":       "Aditya Krishna",
+    "education":  ["M.Sc. Data Science @ VIT Chennai (2024–2026, CGPA: 8.1)",
+                   "B.C.A. @ MAKAUT, West Bengal (2021–2024, CGPA: 8.25)"],
     "focus":      ["Machine Learning", "NLP", "Data Analytics", "Deep Learning"],
     "building":   ["Sentiment Analysis tools", "NLP Chatbots", "BI Dashboards"],
-    "seeking":    "Data Analyst / Data Scientist roles",
+    "seeking":    "Data Analyst / Data Scientist opportunities",
+    "open_to":    "Collaborations on Data Science & Open Source projects",
     "fun_fact":   "I find patterns in chaos — and dashboards in data dumps.",
 }
 ```
@@ -94,14 +88,18 @@ aditya = {
 
 - 🎯 **Event Manager — Tesseract 2025**: Led end-to-end planning of a data science event with technical & non-technical tracks at VIT Chennai
 - ⚡ **Data Science Hackathon**: Rapid feature engineering and model evaluation under competitive time constraints
+- 🌐 **SSOC Season 2** — [View Certificate](https://certificate.givemycertificate.com/c/9459c94a-0ee8-442a-a9df-5090957b9531)
 
 ---
 
 ## 📜 Certifications
 
-- 🟡 **Google Data Analytics** — SQL, Python, Data Visualization
-- 🟠 **Data Visualization with Power BI & Excel** — Forage
-- 🔵 **Create ML Models with BigQuery** — Google
+| Certificate | Issuer | Link |
+|---|---|---|
+| 🔵 **Create ML Models with BigQuery ML** | Google | [![View Badge](https://img.shields.io/badge/Credly-FF6B35?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/badges/eaf399f9-5a55-459c-a380-4e22d1d1182d/linked_in_profile) |
+| 🟠 **Data Visualization with Power BI & Excel** | Forage | [![View Post](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/0x-adi_data-visualisation-activity-7079405706432397312-kC2M) |
+| 🟢 **SQL (Intermediate)** | HackerRank | [![View Certificate](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/eae485a6e15b) |
+| 🟡 **Google Data Analytics** | Google / Coursera | — |
 
 ---
 
