@@ -15,13 +15,14 @@
 
 ## 🙋 About Me
 
-I'm a **Data Science graduate student** at Vellore Institute of Technology, Chennai, with a background in Computer Applications from MAKAUT, West Bengal.
+I'm a **Data Science graduate student** at Vellore Institute of Technology, Chennai and with a background in Computer Applications from MAKAUT, West Bengal.
 
-My work spans **NLP, Machine Learning, Deep Learning, and Data Visualization**. I love asking *"why"* and letting data answer — from building sentiment analysis tools and chatbots, to designing Power BI dashboards that drive business decisions.
+My work spans **NLP, Machine Learning, Deep Learning, and Data Visualization**. I love asking *"why"* and letting data answer from building sentiment analysis tools and chatbots, to designing Power BI dashboards that drive business decisions.
 
 Outside academics, I've led technical events, participated in hackathons, and contributed to research on image processing using advanced mathematical modeling.
 
-🎯 I'm actively looking for **Data Analyst / Data Scientist internships and entry-level opportunities**.
+🎯 I'm actively looking for **Data Analyst / Power Bi Analyst / Business Intelligence Analyst
+SQL Analyst internships and entry-level opportunities**.
 
 ---
 
