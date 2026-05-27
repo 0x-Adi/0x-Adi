@@ -87,8 +87,6 @@ SQL Analyst internships and entry-level opportunities**.
 
 **📬 adityakrishna.ds@gmail.com · 🌐 [Portfolio](https://0x-adi.github.io/portfolio/)**
 
-## 📊 Most Used Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0x-adi&layout=compact&theme=tokyonight&hide_border=true)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
