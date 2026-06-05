@@ -15,7 +15,7 @@
 
 ## 🙋 About Me
 
-I'm a **Data Science graduate student** at Vellore Institute of Technology, Chennai and with a background in Computer Applications from MAKAUT, West Bengal.
+I'm a **Data Science student** at Vellore Institute of Technology, Chennai and with a background in Computer Applications from MAKAUT, West Bengal.
 
 My work spans **NLP, Machine Learning, Deep Learning, and Data Visualization**. I love asking *"why"* and letting data answer from building sentiment analysis tools and chatbots, to designing Power BI dashboards that drive business decisions.
 
@@ -66,8 +66,6 @@ SQL Analyst internships and entry-level opportunities**.
 
 - 🎯 **Event Manager | Tesseract 2025**: Led end-to-end planning of a data science event with technical & non-technical tracks at VIT Chennai
 - ⚡ **Data Science Hackathon**: Rapid feature engineering and model evaluation under competitive time constraints
-- 🌐 **SSOC Season 2** | [View Certificate](https://certificate.givemycertificate.com/c/9459c94a-0ee8-442a-a9df-5090957b9531)
-
 ---
 
 ## 📜 Certifications
