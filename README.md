@@ -13,7 +13,7 @@
 
 ---
 
-## 🙋 About Me
+## 🙋 About Me:
 
 I'm a **Data Science student** at Vellore Institute of Technology, Chennai and with a background in Computer Applications from MAKAUT, West Bengal.
 
