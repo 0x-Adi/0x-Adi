@@ -30,15 +30,15 @@ SQL Analyst internships and entry-level opportunities**.
 
 | Project | Stack | Description |
 |---|---|---|
-| 🧾 **Sentiment Analysis of Product Reviews** | Python, NLP | Tokenization + sentiment scoring to extract product perception insights |
-| 🤖 **NLP-based Rule Chatbot** | Python, NLP | Optimized query response efficiency via user pattern analysis |
-| 📊 **Return & Refund Loss Recovery Dashboard** | Power BI | Interactive dashboard identifying key loss drivers & recovery levers |
-| 🌑 **Hybrid Neutrosophic Low-Light Enhancement** | Python, Math Modeling | Research hybrid image enhancement using neutrosophic sets |
-| 🧬 **CNN Optimization (GrNet)** | Python, Deep Learning | Analyzed training parameters & loss functions to boost model performance |
+| **Sentiment Analysis of Product Reviews** | Python, NLP | Tokenization + sentiment scoring to extract product perception insights |
+| **NLP-based Rule Chatbot** | Python, NLP | Optimized query response efficiency via user pattern analysis |
+| **Return & Refund Loss Recovery Dashboard** | Power BI | Interactive dashboard identifying key loss drivers & recovery levers |
+| **Hybrid Neutrosophic Low-Light Enhancement** | Python, Math Modeling | Research hybrid image enhancement using neutrosophic sets |
+| **CNN Optimization (GrNet)** | Python, Deep Learning | Analyzed training parameters & loss functions to boost model performance |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages & Querying**
 
